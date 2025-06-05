@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Amy Smith",
+    "email": "amy.smith@fakemail.com",
+    "subject": "Issue with my sneakers",
+    "body": "I received the sneakers but they don’t fit well. Can I exchange them?"
+  },
+  {
+    "name": "John Doe",
+    "email": "john.doe@fakemail.com",
+    "subject": "Where’s my backpack?",
+    "body": "I ordered a backpack a week ago and it's not here yet."
+  },
+  {
+    "name": "Lucy Hale",
+    "email": "lucy.hale@fakemail.com",
+    "subject": "Return request for the jacket",
+    "body": "Can I return the jacket? It’s too large."
+  }
+]

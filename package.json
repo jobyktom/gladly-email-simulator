@@ -1,0 +1,19 @@
+{
+  "name": "gladly-email-simulator",
+  "version": "1.0.0",
+  "description": "Simulates emails from imaginary customers for Gladly QA training",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "send": "node index.js",
+    "cron": "node cron.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.10.1"
+  }
+}
